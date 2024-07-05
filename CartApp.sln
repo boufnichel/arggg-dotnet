@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartLibrary", "CartLibrary\CartLibrary.csproj", "{CCB3B2E0-31B1-49DB-B4EC-B61397FA4105}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartLibrary.Tests", "CartLibrary.Tests\CartLibrary.Tests.csproj", "{2DE88347-E3AD-4409-A0DC-865F1E483DE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,13 @@ Global
 		{CCB3B2E0-31B1-49DB-B4EC-B61397FA4105}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCB3B2E0-31B1-49DB-B4EC-B61397FA4105}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCB3B2E0-31B1-49DB-B4EC-B61397FA4105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72261A17-B22D-4DFA-A976-569FEFC0D5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72261A17-B22D-4DFA-A976-569FEFC0D5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72261A17-B22D-4DFA-A976-569FEFC0D5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72261A17-B22D-4DFA-A976-569FEFC0D5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE88347-E3AD-4409-A0DC-865F1E483DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE88347-E3AD-4409-A0DC-865F1E483DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE88347-E3AD-4409-A0DC-865F1E483DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE88347-E3AD-4409-A0DC-865F1E483DE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

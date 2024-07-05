@@ -1,0 +1,12 @@
+/Users/boufnichel/Documents/home/arggg-dotnet/CartLibrary/bin/Debug/net8.0/CartLibrary.deps.json
+/Users/boufnichel/Documents/home/arggg-dotnet/CartLibrary/bin/Debug/net8.0/CartLibrary.dll
+/Users/boufnichel/Documents/home/arggg-dotnet/CartLibrary/bin/Debug/net8.0/CartLibrary.pdb
+/Users/boufnichel/Documents/home/arggg-dotnet/CartLibrary/obj/Debug/net8.0/CartLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boufnichel/Documents/home/arggg-dotnet/CartLibrary/obj/Debug/net8.0/CartLibrary.AssemblyInfoInputs.cache
+/Users/boufnichel/Documents/home/arggg-dotnet/CartLibrary/obj/Debug/net8.0/CartLibrary.AssemblyInfo.cs
+/Users/boufnichel/Documents/home/arggg-dotnet/CartLibrary/obj/Debug/net8.0/CartLibrary.csproj.CoreCompileInputs.cache
+/Users/boufnichel/Documents/home/arggg-dotnet/CartLibrary/obj/Debug/net8.0/CartLibrary.sourcelink.json
+/Users/boufnichel/Documents/home/arggg-dotnet/CartLibrary/obj/Debug/net8.0/CartLibrary.dll
+/Users/boufnichel/Documents/home/arggg-dotnet/CartLibrary/obj/Debug/net8.0/refint/CartLibrary.dll
+/Users/boufnichel/Documents/home/arggg-dotnet/CartLibrary/obj/Debug/net8.0/CartLibrary.pdb
+/Users/boufnichel/Documents/home/arggg-dotnet/CartLibrary/obj/Debug/net8.0/ref/CartLibrary.dll
